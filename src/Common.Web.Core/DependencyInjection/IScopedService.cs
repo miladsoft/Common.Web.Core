@@ -1,0 +1,9 @@
+namespace Common.Web.Core
+{
+    /// <summary>
+    /// It's just a marker for the `Scrutor`
+    /// </summary>
+    public interface IScopedService
+    {
+    }
+}
