@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 using System.Reflection;
-using DNTPersianUtils.Core;
+using PersianUtils.Core;
 using Microsoft.AspNetCore.Mvc.Filters;
 
 namespace Common.Web.Core

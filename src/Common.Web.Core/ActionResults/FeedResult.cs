@@ -9,8 +9,8 @@ using Microsoft.SyndicationFeed.Rss;
 using System.Globalization;
 using System.Threading.Tasks;
 using System.Net.Http.Headers;
-using DNTPersianUtils.Core;
-using DNTPersianUtils.Core.Normalizer;
+using PersianUtils.Core;
+using PersianUtils.Core.Normalizer;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.DependencyInjection;
 

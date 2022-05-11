@@ -5,7 +5,7 @@ using MimeKit;
 using System.IO;
 using System.Threading.Tasks;
 using System.Collections.Generic;
-using DNTPersianUtils.Core;
+using PersianUtils.Core;
 using System.Linq;
 using System.Diagnostics.CodeAnalysis;
 
